@@ -1,9 +1,10 @@
 # WhatsApp-OSINT
 WhatsApp Osint adalah tools melihat data nomor WhatsApp, termasuk status, foto, dll. 🕵🏽‍♂️🕵🏽‍♂️
 
-[![Join our WhatsApp](https://chat.whatsapp.com/HkXhlmxcs14J8DqNW0FzsE?mode=wwc)](https://chat.whatsapp.com/HkXhlmxcs14J8DqNW0FzsE?mode=wwc)
 
-<img src="https://github.com/HackUnderway/WhatsOSINT/blob/main/img/Demo.png" title="WhatsOSINT">
+[![Join our WhatsApp](https://chat.whatsapp.com/HkXhlmxcs14J8DqNW0FzsE?mode=wwc)](https://chat.whatsapp.com)
+
+<img src="https://raw.githubusercontent.com/cexploit99/WhatsApp-OSINT/refs/heads/main/img/demo.jpg" title="WhatsOSINT">
 
 # 🔑 API Key
 Get your API key.
